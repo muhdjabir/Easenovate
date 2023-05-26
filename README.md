@@ -2,11 +2,14 @@
 
 This is a development branch
 
-
 ## To test the project
 
 ```
-npm install 
-npm run dev 
+npm install
+npm run dev
 
 ```
+
+# Easenovate
+
+Interior Designer Marketplace
