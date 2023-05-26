@@ -1,7 +1,5 @@
 # BT3102 Project Easenovate
 
-This is a development branch
-
 ## To test the project
 
 ```
@@ -12,6 +10,9 @@ npm run dev
 
 # Easenovate
 Easenovate is an Interior Designer Marketplace. The idea for Easenovate came about when we realised how transparency is an issue with the Interior Designer community in Singapore. There have been many complaints of nontransparent pricing as well as slipshod work. From that, comes Easenovate. Easenovate connects Homeowners and Interior Designers to allow easy interaction for the contracting of new jobs. Interior Designers on Easenovate can display their portfolio, interact with prospective customers and accept new job requests. On the flip side, Customers can view the portfolio of these interior designers and search for one that is most appropriate for their needs. Interior designers can build their reputation by engaging in jobs and receiving positive reviews.
+
+## Deployed Website
+https://easenovate-25a4c.web.app/
 
 ## Interior Designer Marketplace
 
